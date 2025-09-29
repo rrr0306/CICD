@@ -1,4 +1,4 @@
-Feature: Sauce Demo Complete Checkout Flow
+Feature: Sauce Demo Complete Checkout Flow cicd
   As a user
   I want to purchase a product
   So that I can complete the checkout process successfully
